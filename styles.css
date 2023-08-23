@@ -5,6 +5,7 @@ body{
     padding-left: 100px;
     background-image: url(https://m.media-amazon.com/images/I/81yKpRx1fIL._AC_UF894,1000_QL80_.jpg);
     background-attachment:fixed;
+    font-family: "Scotch Display";
 }
 
 .Background{
@@ -17,11 +18,13 @@ body{
 }
 
 ul {
-    margin: 0%;
+    margin: 0;
 }
 
-h1 {
-    margin: 0%;
+h1, h2, h3 {
+    margin: 0;
+    font-weight: 300;
+    font-size: 2rem;
 }
 
 .Border{
